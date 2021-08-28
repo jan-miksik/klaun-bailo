@@ -1,10 +1,13 @@
+:root {
+  --main-bg-color: #f4f6ff
+}
+
 html,
 body {
   padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-  background: goldenrod
 }
 
 a {
@@ -15,3 +18,58 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+
+/* @font-face {
+  font-family: "GreatVibes";
+  src: url("/fonts/GreatVibes-Regular.ttf");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "RockSalt";
+  src: url("/fonts/RockSalt-Regular.ttf");
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: "BlackOpsOne";
+  src: url("/fonts/BlackOpsOne-Regular.ttf");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "CinzelDecorative";
+  src: url("/fonts/CinzelDecorative-Regular.ttf");
+  font-style: normal;
+  font-display: swap;
+}
+
+
+@font-face {
+  font-family: "RubikMonoOne";
+  src: url("/fonts/RubikMonoOne-Regular.ttf");
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "GiveYouGlory";
+  src: url("/fonts/GiveYouGlory-Regular.ttf");
+  font-style: normal;
+  font-display: swap;
+} */
+
+
+@font-face {
+  font-family: "FingerPaint";
+  src: url("/fonts/FingerPaint-Regular.ttf");
+  font-style: normal;
+  font-display: swap;
+}
+
